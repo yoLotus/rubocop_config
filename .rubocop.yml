@@ -9,3 +9,9 @@ Layout/AlignHash:
 
 Layout/DotPosition:
   EnforcedStyle: trailing
+
+Style/Documentation:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
